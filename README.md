@@ -1,1 +1,2 @@
-# DummyCode
+# CodeSample
+Samples of codes
